@@ -1,0 +1,26 @@
+{
+
+"mails":[
+ {
+  "email_id": "suryasudeepb17@gmail.com",
+  "sport": "Hockey",
+  "hours": 120,
+  "last_updated": "28\/05\/2022",
+  "total": 240
+ },
+ {
+  "email_id": "me20btech11013@iith.ac.in",
+  "sport": "Cricket",
+  "hours": 150,
+  "last_updated": "25\/05\/2022",
+  "total": 240
+ },
+ {
+  "email_id": "abdsurya66@gmail.com",
+  "sport": "Volley Ball",
+  "hours": 180,
+  "last_updated": "24\/05\/2022",
+  "total": 240
+ }
+]
+}
